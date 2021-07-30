@@ -1,0 +1,4 @@
+nltk
+rouge
+mecab-python3
+unidic-lite

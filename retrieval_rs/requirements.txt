@@ -1,0 +1,6 @@
+nltk
+onnxruntime==0.5
+transformers
+torch==1.5
+torchvision==0.6.0 
+sentencepiece
